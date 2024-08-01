@@ -7,11 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on backend development projects.
+
+- 👯 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community, for the community
+
 - 👨‍💻 All of my projects are available at [https://nilesh-portfolio-web.netlify.app/](https://nilesh-portfolio-web.netlify.app/)
 
 - 💬 Ask me about **Javascript, React.js, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **nkhairnar543@gmail.com**
+
+- 😄 Pronouns: He/Him
+
+- 🤓 Active User at: GitHub | LinkedIn
 
 - 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66a9ecf5403a9ded28c68230](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66a9ecf5403a9ded28c68230)
 
