@@ -21,7 +21,7 @@
 
 - 🤓 Active User at: GitHub | LinkedIn
 
-- 📄 Know about my experiences [Resume](https://github.com/NKhairnar203/Nkhairnar203/edit/main/NileshKhairnar-FullStackWebDeveloper-01mP.pdf/)
+- 📄 Know about my experiences [Resume](https://github.com/NKhairnar203/Nkhairnar203/blob/main/NileshKhairnar-FullStackWebDeveloper-01mP.pdf/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
